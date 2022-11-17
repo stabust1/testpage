@@ -1,0 +1,11 @@
+.Sign {
+    width: 400px;
+    padding: 10px 20px;
+    outline: none;
+    border: 1px solid blue;
+    font-size: 15px;
+    background: transparent;
+    color: blue;
+    border-radius: 40px;
+    letter-spacing: 1px;
+}
